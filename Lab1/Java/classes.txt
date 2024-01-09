@@ -1,0 +1,2 @@
+school1,boryslav,1662,3,100
+school2,lviv,1962,4,500
